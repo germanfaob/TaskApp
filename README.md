@@ -12,8 +12,7 @@
 
 ## Instalación
 
-[Colocarse en la carpeta del proyecto y dar doble click sobre main.html.
-Es aconsejable usar un servidor local como "Live Server" en VSCode o cualquier otro.]
+[Visite el enlace: https://germadev.com/projects/taskapp/main]
 
 ## Uso
 
