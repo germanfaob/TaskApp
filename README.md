@@ -12,7 +12,7 @@
 
 ## Instalación
 
-[Visite el enlace: https://germadev.com/projects/taskapp/main]
+[Visite el enlace: https://germadev-task-app.netlify.app/]
 
 ## Uso
 
